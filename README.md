@@ -24,4 +24,5 @@ My tmux configuration.
 - Utilities:
     - plugin manager:   https://github.com/tmux-plugins/tpm
     - tmux navigation:  https://github.com/christoomey/vim-tmux-navigator
+    - tmux ressurect:   https://github.com/tmux-plugins/tmux-resurrect
 
