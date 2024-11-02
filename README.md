@@ -25,4 +25,8 @@ My tmux configuration.
     - plugin manager:   https://github.com/tmux-plugins/tpm
     - tmux navigation:  https://github.com/christoomey/vim-tmux-navigator
     - tmux ressurect:   https://github.com/tmux-plugins/tmux-resurrect
+ 
+# Bugs
+- Sometimes tmux plugins are not installed by default (you will notice it e.g. by default power line). To fix this call:
+`cd ~/.tmux/plugins/tpm/scripts && ./install_plugins.sh`
 
